@@ -37,9 +37,12 @@ This data set contains the following features:
    macro avg       0.98      0.98      0.98       330
 weighted avg       0.98      0.98      0.98       330
 
+
 **Confusion Matrix**
+
 [[170   1]
  [  5 154]]
  
 **Accuracy**
+
 98.2
