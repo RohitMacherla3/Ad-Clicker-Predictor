@@ -1,6 +1,6 @@
 # Ad-Clicker-Predictor
 
-# Overview
+**Overview**
 In this project, I have worked on an advertising data set from Kaggle, indicating whether or not a particular internet user clicked on an Advertisement. I have created a logistic regression model that will predict whether or not they will click on an ad based off the features of that user.
 
 The Data Set is from Kaggle: https://www.kaggle.com/datasets/rizdelhi/my-datasets
@@ -20,9 +20,11 @@ This data set contains the following features:
 
 # EDA
 **Area Income versus Age**
+
 ![image](https://user-images.githubusercontent.com/89356811/179401196-0c823b57-c0e4-44d4-ad01-95fb572111e8.png)
 
 **'Daily Time Spent on Site' vs. 'Daily Internet Usage'**
+
 ![image](https://user-images.githubusercontent.com/89356811/179401219-4f261883-6d52-4a9b-b255-f41c59a37e45.png)
 
 # Metrics
@@ -35,7 +37,7 @@ This data set contains the following features:
    macro avg       0.98      0.98      0.98       330
 weighted avg       0.98      0.98      0.98       330
 
-# Confusion Matrix
+**Confusion Matrix**
 [[170   1]
  [  5 154]]
  
